@@ -16,7 +16,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ Next JS <br>
 ✅ TypeScript <br>
 ✅ Material UI <br>
-✅ Photoshop / Illustrator / Figma <br>
+✅ Photoshop / Illustrator / Figma / XD / SKETCH <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBadhu&layout=compact)
 
