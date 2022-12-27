@@ -2,7 +2,7 @@
 
 <p>
   💻 I'm a <b>Web Developer.</b> <br> 
-  ⌨️ Passionate to <b>Write Code.</b> <br> 
+  ⌨️ I'm always Passionate to <b>Write Code.</b> <br> 
 
 ![Profile views](https://gpvc.arturio.dev/itsbadhu) 
 
