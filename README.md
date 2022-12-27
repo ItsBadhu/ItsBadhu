@@ -1,8 +1,8 @@
 ## Hi there...! I'm Badhon 🫰
 
 <p>
-💻 I'm a Web Developer. <br> 
-  ⌨️ Passionate to <h3>Write Code.</h3> <br> 
+  💻 I'm a <b>Web Developer.</b> <br> 
+  ⌨️ Passionate to <b>Write Code.</b> <br> 
 
 ![Profile views](https://gpvc.arturio.dev/itsbadhu) 
 
